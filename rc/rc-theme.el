@@ -13,4 +13,5 @@
 (require 'rainbow-delimiters)
 (add-hook 'prog-mode-hook 'rainbow-delimiters-mode)
 
+(provide 'rc-theme)
 ;;; rc-theme.el ends here

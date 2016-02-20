@@ -30,4 +30,5 @@
 ;; 這樣測試 .emacs 方便多了...
 (define-key emacs-lisp-mode-map (kbd "C-c C-e") 'eval-buffer-and-message)
 
+(provide 'rc-basic)
 ;;; rc-basic.el ends here

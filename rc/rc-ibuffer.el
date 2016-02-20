@@ -91,4 +91,5 @@
                        (mode . org-mode)
                        (name . "^\\*Calendar\\*$")))))))
 
+(provide 'rc-ibuffer)
 ;;; rc-ibuffer.el ends here
